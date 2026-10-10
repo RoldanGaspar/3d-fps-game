@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6df0964933bf1a04cb2823cbfe154f3c, type: 3}
+  m_Name: Default_ParkourSettings
+  m_EditorClassIdentifier: Assembly-CSharp::ParkourSettings
+  wallRunSpeed: 8.5
+  wallRunDuration: 1.8
+  wallRunGravity: -2
+  wallRunCameraTilt: 15
+  wallJumpForce: 7.5
+  wallJumpSideForce: 6
+  slideSpeed: 11
+  slideDuration: 0.85
+  slideCooldown: 0.4
+  slideColliderHeight: 1
+  vaultDuration: 0.4
+  vaultMaxHeight: 1.2
+  mantleDuration: 0.6
+  mantleMaxHeight: 2.5
+  doubleJumpForce: 6.5
+  maxAirJumps: 1
+  crouchHeight: 1
+  standHeight: 2
+  crouchSpeed: 3

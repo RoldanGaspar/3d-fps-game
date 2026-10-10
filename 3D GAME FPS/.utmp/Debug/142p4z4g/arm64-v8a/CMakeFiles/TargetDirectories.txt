@@ -1,0 +1,8 @@
+C:/Games/3D GAME FPS/3D GAME FPS/.utmp/Debug/142p4z4g/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Games/3D GAME FPS/3D GAME FPS/.utmp/Debug/142p4z4g/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Games/3D GAME FPS/3D GAME FPS/.utmp/Debug/142p4z4g/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Games/3D GAME FPS/3D GAME FPS/.utmp/Debug/142p4z4g/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Games/3D GAME FPS/3D GAME FPS/.utmp/Debug/142p4z4g/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+C:/Games/3D GAME FPS/3D GAME FPS/.utmp/Debug/142p4z4g/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Games/3D GAME FPS/3D GAME FPS/.utmp/Debug/142p4z4g/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Games/3D GAME FPS/3D GAME FPS/.utmp/Debug/142p4z4g/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
